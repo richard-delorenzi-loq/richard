@@ -10,7 +10,7 @@
   e.g. Nvidia Stereoscopic 3d driver service
   Could remove some of it.
 ## Virus scanner
-  Could protect out self from malicious software differently.
+  Could protect ourself from malicious software differently.
 ## Multiple copies of qsmart:
   The 9 q-smart services (2 per park) are 17 out of 20 of the top RAM users on the server (when measured), (the other was at position 23). About 50% of 1.66GB (but looks like the least recently used is shrinking).
 
