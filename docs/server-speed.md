@@ -11,8 +11,8 @@
   Could remove some of it.
 ## Virus scanner
   Could protect ourself from malicious software differently.
-## Multiple copies of qsmart:
-  The 9 q-smart services (2 per park) are 17 out of 20 of the top RAM users on the server (when measured), (the other was at position 23). About 50% of 1.66GB (but looks like the least recently used is shrinking).
+## Multiple copies of server-code:
+  The 9 services (2 per park) are 17 out of 20 of the top RAM users on the server (when measured), (the other was at position 23). About 50% of 1.66GB (but looks like the least recently used is shrinking).
 
   This not only wastes disk space, but also wastes RAM, by having multiple copies of the same data in RAM (commit or disk cache). By sharing what is common it may be possible to save RAM. 
 
